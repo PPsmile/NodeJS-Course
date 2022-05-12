@@ -1,24 +1,26 @@
-{
-    "products": [
-      {
-        "productTitle": "น้ำเปล่า",
-        "productDescription": "Nesle",
-        "productPrice": "7 บาท"
-      },
-      {
-        "productTitle": "โค้ก",
-        "productDescription": "coca-cola",
-        "productPrice": "20 บาท"
-      },
-      {
-        "productTitle": "ข้าวขาหมู",
-        "productDescription": "rice",
-        "productPrice": "50 บาท"
-      },
-      {
-        "productTitle": "ไก่ย่าง",
-        "productDescription": "chicken",
-        "productPrice": "45 บาท"
-      }
-    ]
+[
+  {
+    "id": 0,
+    "productTitle": "น้ำเปล่า",
+    "productDescription": "Nesle",
+    "productPrice": "7 บาท"
+  },
+  {
+    "id": 1,
+    "productTitle": "โค้ก",
+    "productDescription": "coca-cola",
+    "productPrice": "20 บาท"
+  },
+  {
+    "id": 2,
+    "productTitle": "ข้าวขาหมู",
+    "productDescription": "rice",
+    "productPrice": "50 บาท"
+  },
+  {
+    "id": 3,
+    "productTitle": "ไก่ย่าง",
+    "productDescription": "chicken",
+    "productPrice": "45 บาท"
   }
+]
